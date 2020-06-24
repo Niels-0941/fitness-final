@@ -52,15 +52,23 @@ h3{
 
 
 nav.id.justify-content-center{
-	text-align:center
+	margin-top: 15px;
 }
 
 .navbar{
 	text-align:center
+
 }
 
 p{
 	font-size:40px
+}
+
+.img-fluid {
+	height: 325px;
+	object-fit: cover;
+	object-position: center center;
+	padding: 2rem;
 }
 
 div.maincontent{
