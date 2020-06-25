@@ -112,9 +112,10 @@ div.container{
 
 p{
 	font-size:20px;
-	text-align:left;
+	text-align:center;
 	color:white;
 	margin-left:50px
+	margin-bottom: 60px;
 }
 
 h1{
@@ -137,7 +138,6 @@ div.reg{
 	text-align:center;
 	object-position:center;
 	margin-bottom:60px;
-	position: fixed;
 
 }
 
